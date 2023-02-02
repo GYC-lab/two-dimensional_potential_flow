@@ -11,9 +11,15 @@ Date: October 6, 2022
 
 
 uniform flow in $x$ direction
+
+
 $$
 \psi=V_{\infty} y = V_{\infty} r \sin \theta
 $$
+
+
+
+
 
 
 <div align=center><img width="400" src="./images/uniform_flow.png"/></div>
@@ -86,6 +92,7 @@ $$
 
 
 uniform flow + doublet = nonlifting flow over a circular cylinder
+
 
 
 $$
