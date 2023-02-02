@@ -72,9 +72,15 @@ $$
 #### 2. Combination of the elementary flows
 
 uniform flow + source = flow over a semi-infinite body
+
+
 $$
 \psi=V_{\infty} r \sin \theta+\frac{\Lambda}{2 \pi} \theta
 $$
+
+
+
+
 
 
 <div align=center><img width="400" src="./images/uniform_flow_source.png"/></div>
