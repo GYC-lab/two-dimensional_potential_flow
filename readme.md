@@ -76,6 +76,7 @@ $$
 uniform flow +  source (left) + sink (right) = flow over a Rankine oval
 
 
+
 $$
 \psi=V_{\infty} r \sin \theta+\frac{\Lambda}{2 \pi} \theta_1-\frac{\Lambda}{2 \pi} \theta_2
 $$
@@ -85,18 +86,29 @@ $$
 
 
 uniform flow + doublet = nonlifting flow over a circular cylinder
+
+
 $$
 \psi=V_{\infty} r \sin \theta-\frac{\kappa}{2 \pi} \frac{\sin \theta}{r}
 $$
+
+
+
+
 
 <div align=center><img width="400" src="./images/uniform_flow_doublet.png"/></div>
 
 uniform flow + doublet + vortex = nonlifting flow over a circular cylinder + vortex = lifting flow over a circular cylinder 
 
 
+
 $$
 \psi=V_{\infty} r \sin \theta -\frac{\kappa}{2 \pi} \frac{\sin \theta}{r} + \frac{\Gamma}{2 \pi} \ln r
 $$
+
+
+
+
 
 
 <div align=center><img width="400" src="./images/uniform_flow_vortex_doublet.png"/></div>
